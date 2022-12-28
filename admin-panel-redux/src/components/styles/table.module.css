@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: center;
+  max-height: 50vh;
+  padding: 20px 0;
+  margin: 20px;
+}
+table {
+  min-width: 40%;
+  max-width: 80%;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 10px;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
